@@ -1,24 +1,13 @@
 # osTicket-Exploration
 Practical Use of osTicket
 
-# osTicket Implementation for Simulated Public Service – Americorp
-
 ## Introduction
 This project involved setting up an osTicket system for a fictional company, Americorp, aimed at providing public service. The focus was on simulating a real-world ticketing environment, inspired by Active Directory principles.
 
 ## Structure and Setup
-- **Departments and Teams:** Structured the system into six departments: Feedback and Improvement, Helpdesk Support, Network Performance Monitoring, Security and Compliance, Technical Issues, and Support.
-- **Role of Departments:**
-  - Feedback and Improvement: Analyzing user feedback to improve services.
-  - Helpdesk Support: First point of contact for general queries.
-  - Network Performance Monitoring: Ensuring network reliability and performance.
-  - Security and Compliance: Managing network and data security.
-  - Technical Issues: Addressing advanced technical concerns.
-
-## System Administration and Oversight
-- **Support Department:**
-  - Comprised of 2 admins with system-wide access and configuration capabilities.
-  - Responsible for overseeing the entire ticketing process and system settings.
+- In the osTicket setup for Americorp, I created a total of 12 users and organized them into six distinct departments reflective of a typical IT department in a real-world company. These departments include Support, Feedback and Improvement, Helpdesk Support, Network Performance and Monitoring, Security and Compliance, and Technical Issues.
+- Each department was structured with a specific team comprising two users. This team size was chosen to simulate a balance between efficient workload distribution and effective collaboration. For instance, the Support team was tasked with overarching system management, while the Feedback and Improvement team focused on analyzing user feedback to enhance service quality.
+- The decision to include these particular departments was driven by their relevance and importance in a standard IT operation, ensuring that the Americorp simulation covered a broad spectrum of IT functionalities. This organizational structure provided valuable insights into the dynamics of IT support and service management, closely mirroring the intricacies of a real-world business setup.
 
 ## Ticket Lifecycle and Assignment Process
 - **Ticket Creation:** Clients create tickets with a summary and detailed issue description.
