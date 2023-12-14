@@ -1,14 +1,14 @@
 # osTicket-Exploration
 
 ## Project Overview
-
+In this project, I designed and managed an osTicket system for a simulated company, Americorp, to closely mirror a real-world IT support environment. The aim was to set up a structured ticketing system that efficiently categorizes and manages public inquiries and technical issues across various IT domains. Through this project, I wanted to gain more insight on the dynamics of a ticketing system, enhancing my skills in strategic planning, user role management, and effective communication within a client-service framework.
 
 
 ## Objectives
-- **Ticket Simulation:** Generate tickets to be processed by agents.
 - **Department Structuring:** Organize agents into appropriate Teams and Departments
-- **Severity Level Configuration:** Create different levels of severity for ticket triage. 
 - **Agent Setup:** Create agents and configure access based on team membership.
+- **Ticket Simulation:** Generate tickets to be processed by agents.
+- **Severity Level Configuration:** Create different levels of severity for ticket triage. 
 
 ## Technologies Used
 - Remote Desktop Connection
@@ -61,5 +61,7 @@
 
 
 ## Conclusion and Learnings
-Reflecting on the project, I gained valuable insights into the setup and management of a ticketing system. This experience highlighted the importance of strategic planning, efficient categorization, and effective communication in a client-focused environment.
+Completing the osTicket project has significantly enhanced my understanding of an efficient ticketing system's operations. Stepping into the shoes of an admin, albeit in a simulated environment, has opened my eyes to the multifaceted responsibilities that real-world administrators tackle daily. Although initially challenging due to my limited experience in such a role, the project proved to be a profound learning opportunity. It not only bolstered my knowledge of IT department structures, gleaned from extensive research, but also drew numerous parallels to Active Directory, reinforcing my comprehension of hierarchical systems.
+
+This project has been instrumental in building upon my existing AD knowledge and has solidified my grasp of key administrative principles. The hands-on experience gained through this simulation was invaluable, far surpassing what could be learned from theoretical study alone. As I move forward, the practical skills and insights acquired here will undoubtedly be a cornerstone in my professional toolkit. I am confident that the competencies developed through this project will significantly benefit my future employment endeavors, allowing me to contribute more effectively in my positions. 
 
