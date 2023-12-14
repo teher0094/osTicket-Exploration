@@ -34,7 +34,8 @@
 - Junior technicians who are responsible for the fundamental aspects of ticket management has Tier 1 abilities. Team leads have Tier 2 abilities for better oversight and ticket management. 
 - The Admins also have Tier 2 abilities along with special Extended Access. This Extended Access allows them to view and manage tickets across all departments, a capability not available to other agents. Admins oversees the entire ticketing operation, perform system configuration, ensure smooth workflow across departments, and intervene in situations that require higher-level attention or system-wide changes.
 
-The differentiation in access and abilities between the admins and agents, as well as between the Tier 1 and Tier 2 agents, is designed to reflect a real-world IT support structure. Agents operate within their scope of expertise, contributing to their respective department's functionality, while admins provide overarching management and support, crucial for maintaining operational integrity and service quality.
+
+- The differentiation in access and abilities between the admins and agents, as well as between the Tier 1 and Tier 2 agents, is designed to reflect a real-world IT support structure. Agents operate within their scope of expertise, contributing to their respective department's functionality, while admins provide overarching management and support, crucial for maintaining operational integrity and service quality.
 
 ## Ticket Lifecycle Simulation and Help Topics
 - In the osTicket system, the ticket lifecycle begins with the client side, where users can create tickets, and transitions to the staff side for resolution. To understand this process fully, I simulated both roles.
