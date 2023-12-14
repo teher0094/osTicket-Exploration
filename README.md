@@ -1,8 +1,20 @@
 # osTicket-Exploration
-Practical Use of osTicket
 
-## Introduction
-This project involved setting up an osTicket system for a fictional company, Americorp, aimed at providing public service. The focus was on simulating a real-world ticketing environment, inspired by Active Directory principles.
+## Project Overview
+
+
+
+## Objectives
+- **Ticket Simulation:** Generate tickets to be processed by agents.
+- **Department Structuring:** Organize agents into appropriate Teams and Departments
+- **Severity Level Configuration:** Create different levels of severity for ticket triage. 
+- **Agent Setup:** Create agents and configure access based on team membership.
+
+## Technologies Used
+- Remote Desktop Connection
+- Microsoft Azure
+- Windows 10 Pro
+- osTicket
 
 ## Structure and Setup
 - In the osTicket setup for Americorp, I created a total of 12 users and organized them into six distinct departments reflective of a typical IT department in a real-world company. These departments include Support, Feedback and Improvement, Helpdesk Support, Network Performance and Monitoring, Security and Compliance, and Technical Issues.
