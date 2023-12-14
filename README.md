@@ -9,6 +9,8 @@ This project involved setting up an osTicket system for a fictional company, Ame
 - Each department was structured with a specific team comprising two users. This team size was chosen to simulate a balance between efficient workload distribution and effective collaboration. For instance, the Support team was tasked with overarching system management, while the Feedback and Improvement team focused on analyzing user feedback to enhance service quality.
 - The decision to include these particular departments was driven by their relevance and importance in a standard IT operation, ensuring that the Americorp simulation covered a broad spectrum of IT functionalities. This organizational structure provided valuable insights into the dynamics of IT support and service management, closely mirroring the intricacies of a real-world business setup.
 
+- (INSERT screenshot of depts)
+
 ## Ticket Lifecycle and Assignment Process
 - **Ticket Creation:** Clients create tickets with a summary and detailed issue description.
 - **Automated Assignment:** Based on urgency and content, tickets are auto-assigned to respective departments.
