@@ -18,11 +18,23 @@
 
 ## Structure and Setup
 - In the osTicket setup for Americorp, I created a total of 12 users and organized them into six distinct departments reflective of a typical IT department in a real-world company. These departments include Support, Feedback and Improvement, Helpdesk Support, Network Performance and Monitoring, Security and Compliance, and Technical Issues.
-- Each department was structured with a specific team comprising two users. This team size was chosen to simulate a balance between efficient workload distribution and effective collaboration. For instance, the Support team was tasked with overarching system management, while the Feedback and Improvement team focused on analyzing user feedback to enhance service quality.
+- The entire IT staff was managed my 2 admins. Each department was structured with a specific team comprising two users, a team lead and their junior technician. This team size was chosen to simulate a balance between efficient workload distribution and effective collaboration. For instance, the Support team was tasked with overarching system management, while the Feedback and Improvement team focused on analyzing user feedback to enhance service quality.
 - The decision to include these particular departments was driven by their relevance and importance in a standard IT operation, ensuring that the Americorp simulation covered a broad spectrum of IT functionalities. This organizational structure provided valuable insights into the dynamics of IT support and service management, closely mirroring the intricacies of a real-world business setup.
 
 ![image](https://github.com/teher0094/osTicket-Exploration/assets/153027290/490360b7-3852-45c2-b74b-296d65e2bb26)
 
+
+## Agent Setup 
+- In the Americorp osTicket system, the agent structure consists of 12 members, including 2 admins, 5 team leads and 5 junior technicians. Each agent had varying levels of access and capabilities tailored to their roles.
+
+**Agent Roles and Abilities:**
+- Tier 1 Agents: Assigned to handle general inquiries and basic troubleshooting. Their abilities encompass creating tickets, closing tickets, reassigning them to the appropriate department or agent, and editing tickets by adding comments or updates to the ticket thread.
+- Tier 2 Agents: Equipped with more advanced capabilities, Tier 2 agents possess all the abilities of Tier 1 with the additional capabilities of deleting tickets and editing thread items created by other agents.
+
+Admins' Extended Access: The two admins possess comprehensive system-wide access, enabling them to manage not just tickets across all departments but also perform crucial system configurations and oversee overall operational workflows.
+
+
+The differentiation in access and abilities between the admins and agents, as well as between the Tier 1 and Tier 2 agents, is designed to reflect a real-world IT support structure. It ensures operational efficiency, with tasks and responsibilities distributed according to the agents' expertise and role requirements.
 
 ## Ticket Lifecycle Simulation and Help Topics
 - In the osTicket system, the ticket lifecycle begins with the client side, where users can create tickets, and transitions to the staff side for resolution. To understand this process fully, I simulated both roles.
