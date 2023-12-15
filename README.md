@@ -1,7 +1,7 @@
 # osTicket-Exploration
 
 ## Project Overview
-In this project, I designed and managed an osTicket system for a simulated company, Americorp, to closely mirror a real-world IT support environment. The aim was to set up a structured ticketing system that efficiently categorizes and manages public inquiries and technical issues across various IT domains. Through this project, I wanted to gain more insight on the dynamics of a ticketing system, enhancing my skills in strategic planning, user role management, and effective communication within a client-service framework.
+In this project, I configured and managed a ticketing system for the simulated company, Americorp, to closely mirror a real-world IT support environment. The aim was to set up a structured ticketing system that efficiently categorizes and manages public inquiries and technical issues across various IT domains. Through this project, I wanted to gain more insight on the dynamics of a ticketing system, enhancing my skills in strategic planning, user role management, and effective communication within a client-service framework.
 
 
 ## Objectives
@@ -18,8 +18,8 @@ In this project, I designed and managed an osTicket system for a simulated compa
 
 ## Structure and Setup
 - In the osTicket setup for Americorp, I created a total of 12 users and organized them into six distinct departments reflective of a typical IT department in a real-world company. These departments include Support, Feedback and Improvement, Helpdesk Support, Network Performance and Monitoring, Security and Compliance, and Technical Issues.
-- The entire IT staff was managed my 2 admins. Each department was structured with a specific team comprising two users, a team lead and their junior technician. This team size was chosen to simulate a balance between efficient workload distribution and effective collaboration. For instance, the Support team was tasked with overarching system management, while the Feedback and Improvement team focused on analyzing user feedback to enhance service quality.
-- The decision to include these particular departments was driven by their relevance and importance in a standard IT operation, ensuring that the Americorp simulation covered a broad spectrum of IT functionalities. This organizational structure provided valuable insights into the dynamics of IT support and service management, closely mirroring the intricacies of a real-world business setup.
+- The entire IT staff was managed my 2 admins. Each department was structured with a specific team comprising of two users, a team lead and their junior technician. This team size was chosen to simulate a balance between efficient workload distribution and effective collaboration. 
+- The decision to include these particular departments was driven by their relevance and importance in a standard IT operation, ensuring that the Americorp simulation covered a broad spectrum of IT functionalities. For instance, the Support team was tasked with overarching system management, while the Feedback and Improvement team focused on analyzing user feedback to enhance service quality. This organizational structure provided valuable insights into the dynamics of IT support and service management, closely mirroring the intricacies of a real-world business setup.
 
 ![image](https://github.com/teher0094/osTicket-Exploration/assets/153027290/490360b7-3852-45c2-b74b-296d65e2bb26)
 
@@ -28,8 +28,8 @@ In this project, I designed and managed an osTicket system for a simulated compa
 - In the Americorp osTicket system, the agent structure consists of 12 members, including 2 admins, 5 team leads and 5 junior technicians. Each agent had varying levels of access and capabilities tailored to their roles.
 
 **Agent Roles and Abilities:**
-- Tier 1 Agents: Assigned to handle general inquiries and basic troubleshooting. Their abilities encompass creating tickets, closing tickets, reassigning them to the appropriate department or agent, and editing tickets by adding comments or updates to the ticket thread.
-- Tier 2 Agents: Equipped with more advanced capabilities, Tier 2 agents possess all the abilities of Tier 1 with the additional capabilities of deleting tickets and editing thread items created by other agents.
+- Tier 1 Agents are assigned to handle general inquiries and basic troubleshooting. Their abilities encompass creating tickets, closing tickets, reassigning them to the appropriate department or agent, and editing tickets by adding comments or updates to the ticket thread.
+- Tier 2 Agents are equipped with more advanced capabilities. Tier 2 agents possess all the abilities of Tier 1 with the additional capabilities of deleting tickets and editing thread items created by other agents.
 
 - Junior technicians who are responsible for the fundamental aspects of ticket management has Tier 1 abilities. Team leads have Tier 2 abilities for better oversight and ticket management. 
 - The Admins also have Tier 2 abilities along with special Extended Access. This Extended Access allows them to view and manage tickets across all departments, a capability not available to other agents. Admins oversees the entire ticketing operation, perform system configuration, ensure smooth workflow across departments, and intervene in situations that require higher-level attention or system-wide changes.
